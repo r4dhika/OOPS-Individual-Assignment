@@ -35,3 +35,12 @@ Controlling each component individually can be complex. Users would need to unde
 
 - **Simplicity:** Users don't need to worry about intricate details of each component.
 - **Abstraction:** The facade provides a clear abstraction layer, simplifying user interactions and managing the complexities of the underlying subsystem.
+
+## How to Run
+
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Open the code in your preferred C++ development environment.
+4. Build and run the code.
+5. Provide movie name as input.
+6. Press 'q' to end the movie.
